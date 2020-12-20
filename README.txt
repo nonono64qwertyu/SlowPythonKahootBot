@@ -1,6 +1,9 @@
 SlowPythonKahootBot
 A kahoot bot written in python that is stupidly slow and bad
 
+Goal:
+- I know about a billion kahoot bots exist already, but from boredom I have decided to try to make my own in python.
+
 Requirements:
 
 - Selenium --> "pip3 install selenium"
@@ -8,6 +11,10 @@ Requirements:
 
 How to run:
 If you're on Windows, run run.bat, on linux or Mac, just run from the command interface: "python main.py"
+
+
+Plans:
+-I want to find an alternative way to interact with kahoot, other than Selenium, because it is slow
 
 ___________________________________________________________________________________________
       __                         _    _                                   ____             

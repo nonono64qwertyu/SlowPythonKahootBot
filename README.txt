@@ -14,7 +14,7 @@ If you're on Windows, run run.bat, on linux or Mac, just run from the command in
 
 
 Plans:
--I want to find an alternative way to interact with kahoot, other than Selenium, because it is slow
+-I want to find an alternative way to interact with kahoot, other than Selenium, because it is slow, for this purpose at least.
 
 ___________________________________________________________________________________________
       __                         _    _                                   ____             
